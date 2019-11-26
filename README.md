@@ -15,13 +15,13 @@
 
 
 ### To do:
-  #* follow/like per hour/day target
-  #* Add comment method
-  #* administering system
-    * unfollow after hitting target profiles followed
-    * stop liking/following after hitting target
-    * night break
-    * manage running methods
-  #* Hide to system tray
+  * follow/like per hour/day target
+  * Add comment method
+  * administering system
+    - unfollow after hitting target profiles followed
+    - stop liking/following after hitting target
+    - night break
+    - manage running methods
+  * Hide to system tray
  
 
