@@ -11,7 +11,7 @@
 #### 5. Run bot
 
 # Disclaimer:
-Instagram might ban you for overuse of its functions, if you run bot for too long
+Instagram might ban you for overuse of its functions if you run bot for too long
 
 
 ### To do:
