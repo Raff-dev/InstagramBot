@@ -1,6 +1,6 @@
 # InstagramBot
 
-<a href="http://scr.hu/24il/y45b6"/></a> 
+<a href="http://scr.hu/24il/y45b6"></a> 
 ## Functions:
   * Like 
   * Follow
@@ -11,7 +11,8 @@
 #### 4. Choose the function you want to use
 #### 5. Run bot
 
-# Disclaimer: Instagram might ban you for overuse of its functions, if you run bot for too long
+# Disclaimer:
+Instagram might ban you for overuse of its functions, if you run bot for too long
 
 
 ### To do:
