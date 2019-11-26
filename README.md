@@ -1,6 +1,6 @@
 # InstagramBot
+(http://scr.hu/24il/y45b6) 
 
-<a href="http://scr.hu/24il/y45b6"></a> 
 ## Functions:
   * Like 
   * Follow
