@@ -1,6 +1,5 @@
 # InstagramBot
-(http://scr.hu/24il/y45b6) 
-
+![Prewiew](/window.jpg) 
 ## Functions:
   * Like 
   * Follow
